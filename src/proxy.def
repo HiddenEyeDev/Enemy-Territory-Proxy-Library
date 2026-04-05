@@ -1,0 +1,5 @@
+LIBRARY qagame_mp_x86
+
+EXPORTS
+    dllEntry @1
+    vmMain @2
